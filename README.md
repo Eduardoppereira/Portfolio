@@ -34,12 +34,24 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise e c
   <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII1.png" width=60%>
 </p>
 
-### [**Classificação de Clientes por Histórico de Compras**](https://github.com/Eduardoppereira/SQL_SERVER_CLASSIFICACAO_CLIENTES)
+
+### [**Dashboard de Vendas no Figma 🚀**](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS)
  - **Bem-vindo ao nosso Relatório de Vendas! Aqui você encontrará informações valiosas sobre o desempenho do seu negócio. Personalize suas análises usando filtros fáceis de entender e explore gráficos interativos.**
  - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTM2YjJlMDAtYjIyYy00ODNkLWE0OGQtMDcwN2MzNjM4NWY3IiwidCI6Ijc1MGRkNzEzLWU4ZDUtNDZmMi04YThkLTE0ZjdkNTkwODA5YiJ9)
  - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/PBI_VENDAS_2)
-   
-### Capturas de Tela
-<p align="center">
-  <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII1.png" width=60%>
-</p>
+
+
+
+
+
+## Projetos no SQL Server
+
+### [**Classificação de Clientes por Histórico de Compras**](https://github.com/Eduardoppereira/SQL_SERVER_CLASSIFICACAO_CLIENTES)
+ - **Este repositório fornece uma solução para o problema de classificação de clientes em uma empresa de comércio eletrônico, com base em seus históricos de compras. A classificação é determinada pelo valor total gasto por cada cliente. Para tornar o processo eficiente, a solução proposta utiliza funções, uma view e uma procedure.**
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/SQL_SERVER_CLASSIFICACAO_CLIENTES)
+
+### [**SQL Server - Definições e exemplos**](https://github.com/Eduardoppereira/SQL_SERVER_DEFINICOES_EXEMPLOS)
+ - **Este repositório contém uma compilação abrangente de definições e exemplos práticos para o ambiente SQL Server. Aqui, você encontrará informações detalhadas sobre conceitos fundamentais, funções avançadas e melhores práticas para otimizar o desempenho do seu sistema de gerenciamento de banco de dados.**
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/SQL_SERVER_DEFINICOES_EXEMPLOS)
+
+
