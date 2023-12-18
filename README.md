@@ -35,6 +35,7 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise de 
 </p>
 
 ## Projetos no Figma
+
 ### [**Dashboard de Vendas no Figma 🚀**](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS?tab=readme-ov-file#dashboard-de-vendas-no-figma-)
  - **Explore um ambiente intuitivo e detalhado, concentrado na análise de planos, ofertas e indicadores-chave para impulsionar o sucesso do negócio.**
  - [Acesse o Protótipo](https://www.figma.com/community/file/1281973192512762996)
@@ -44,6 +45,38 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise de 
 <p align="center">
   <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS/blob/main/Vers%C3%A3o%203%20-%20Tim.png" width=60%>
 </p>
+
+### [**Dashboard de Despesas no Figma 🚀**](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_DESPESA?tab=readme-ov-file#dashboard-de-despesas-no-figma-)
+ - **Explore um ambiente intuitivo e detalhado, focado na análise abrangente de despesas, indicadores-chave e tendências de custos.**
+ - [Acesse o Protótipo](https://www.figma.com/community/file/1280894692956636469)
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_DESPESA)
+
+#### Capturas de Tela
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_DESPESA/blob/main/Vers%C3%A3o%203%20-%20OI%20(1).png" width=60%>
+</p>
+
+### [**Dashboard de Planos e Ofertas no Figma 🚀**](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_PLANOS?tab=readme-ov-file#dashboard-de-planos-e-ofertas-no-figma-)
+ - **Explore um ambiente intuitivo e detalhado, concentrado na análise de planos, ofertas e indicadores-chave para impulsionar o sucesso do negócio.**
+ - [Acesse o Protótipo](https://www.figma.com/community/file/1281254040119131070)
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_PLANOS)
+
+#### Capturas de Tela
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_PLANOS/blob/main/Vers%C3%A3o%203%20-%20Claro%20(1).png" width=60%>
+</p>
+
+### [**Dashboard de Atendimento 🤵🏾‍♂️**](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_ATENDIMENTO?tab=readme-ov-file#dashboard-de-atendimento-%EF%B8%8F)
+ - **Explore um ambiente intuitivo e informativo dedicado à análise detalhada do atendimento ao cliente.**
+ - [Acesse o Protótipo](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_ATENDIMENTO)
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_PLANOS)
+
+#### Capturas de Tela
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_ATENDIMENTO/blob/main/Vers%C3%A3o%203%20-%20VIVO%20(1).png" width=60%>
+</p>
+
+
 
 ## Projetos no SQL Server
 
