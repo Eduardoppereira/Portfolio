@@ -35,10 +35,15 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise de 
 </p>
 
 ## Projetos no Figma
-### [**Dashboard de Vendas no Figma 🚀**](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS)
- - **Bem-vindo ao nosso Relatório de Vendas! Aqui você encontrará informações valiosas sobre o desempenho do seu negócio. Personalize suas análises usando filtros fáceis de entender e explore gráficos interativos.**
- - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTM2YjJlMDAtYjIyYy00ODNkLWE0OGQtMDcwN2MzNjM4NWY3IiwidCI6Ijc1MGRkNzEzLWU4ZDUtNDZmMi04YThkLTE0ZjdkNTkwODA5YiJ9)
- - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/PBI_VENDAS_2)
+### [**Dashboard de Vendas no Figma 🚀**](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS?tab=readme-ov-file#dashboard-de-vendas-no-figma-)
+ - **Explore um ambiente intuitivo e detalhado, concentrado na análise de planos, ofertas e indicadores-chave para impulsionar o sucesso do negócio.**
+ - [Acesse o Protótipo](https://www.figma.com/community/file/1281973192512762996)
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS)
+
+#### Capturas de Tela
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS/blob/main/Vers%C3%A3o%203%20-%20Tim.png" width=60%>
+</p>
 
 ## Projetos no SQL Server
 
