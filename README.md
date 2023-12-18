@@ -11,7 +11,7 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise de 
    
 ### Capturas de Tela
 <p align="center">
-  <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII1.png" width=60%>
+  <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII11.png" width=60%>
 </p>
 
 ### [**Dashboard de Vendas💹**](https://github.com/Eduardoppereira/PBI_VENDAS)
