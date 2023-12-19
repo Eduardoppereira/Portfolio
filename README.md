@@ -104,11 +104,10 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise de 
  - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/PYTHON_DATA_SCIENCE/tree/main)
 
 ### [**Informações do Usuário**](https://github.com/Eduardoppereira/calculo_nome_idade/tree/main)
- - **Este simples script em Python solicita ao usuário seu nome e idade, realizando diversas verificações e exibindo informações relacionadas. **
+ - **Este simples script em Python solicita ao usuário seu nome e idade, realizando diversas verificações e exibindo informações relacionadas.**
  - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/calculo_nome_idade/tree/main)
 
 ### **Scripts diversos**
- - **Scripts de estudos**
  - [Calculadora de Área do Triângulo](https://github.com/Eduardoppereira/calcular_a_area_de_um_triangulo)
  - [Conversor de Temperatura Celsius para Fahrenheit](https://github.com/Eduardoppereira/Converter_temperatura_de_Celsius_para_Fahrenheit)
  - [Calculadora de Salário Líquido](https://github.com/Eduardoppereira/Calcular_salario_liquido)
