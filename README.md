@@ -4,10 +4,19 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise de 
 
 ## Projetos no Power BI
 
+### [**Dashboard de Gestão de Orçamento 📊💰**](https://github.com/Eduardoppereira/PBI_ORCAMENTO/tree/main)
+ - **Dashboard de Gestão de Orçamento, um espaço onde a arte da análise financeira encontra a praticidade da visualização de dados. Aqui, mergulhamos na gestão de orçamento com criatividade e eficiência.**
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/PBI_ORCAMENTO/tree/main?tab=readme-ov-file#dashboard-de-gest%C3%A3o-de-or%C3%A7amento-)
+   
+### Capturas de Tela
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/PBI_ORCAMENTO/blob/main/Captura%20de%20tela%202023-12-18%20160756.png" width=60%>
+</p>
+
 ### [**Dashboard de Análise de Fundos Imobiliários🏢💹**](https://github.com/Eduardoppereira/PBI_FII)
  - **Explore o mercado de fundos imobiliários de forma interativa, utilizando filtros personalizados e gráficos envolventes para tomar decisões estratégicas informadas. A análise detalhada e comparativa oferece insights valiosos para investidores e entusiastas do setor imobiliário.**
  - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNmYTQ0NDYtZTk3Zi00NzZmLThmODktMTg2MDZkYjQxMzA3IiwidCI6ImM5YWFjMGZmLWQ1Y2MtNDRhMi05NjIyLWNkMmVlZmQ5Zjk4MiJ9)
- - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/PBI_FII?tab=readme-ov-file#dashboard-de-an%C3%A1lise-de-fundos-imobili%C3%A1rios-))
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/PBI_FII?tab=readme-ov-file#dashboard-de-an%C3%A1lise-de-fundos-imobili%C3%A1rios-)
    
 ### Capturas de Tela
 <p align="center">
