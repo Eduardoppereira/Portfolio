@@ -45,6 +45,16 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise de 
 
 ## Projetos no Figma
 
+### [**Dashboard de Vendas no Figma 🚀**](https://github.com/Eduardoppereira/texas_in_burgues)
+ - **Este relatório é uma ferramenta completa e intuitiva, permitindo uma análise abrangente do desempenho da hamburgueria. Ao integrar KPIs, análises comparativas e avaliações do cliente, este dashboard oferece uma visão holística para orientar as decisões estratégicas e impulsionar o sucesso do negócio.**
+ - [Acesse o Protótipo](https://github.com/Eduardoppereira/texas_in_burgues)
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/texas_in_burgues)
+
+#### Capturas de Tela
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/texas_in_burgues/blob/main/Food%20Delivery%20Dashboard_2.png" width=60%>
+</p>
+
 ### [**Dashboard de Vendas no Figma 🚀**](https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS?tab=readme-ov-file#dashboard-de-vendas-no-figma-)
  - **Explore um ambiente intuitivo e detalhado, concentrado na análise de planos, ofertas e indicadores-chave para impulsionar o sucesso do negócio.**
  - [Acesse o Protótipo](https://www.figma.com/community/file/1281973192512762996)
@@ -98,6 +108,38 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise de 
  - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/SQL_SERVER_DEFINICOES_EXEMPLOS)
 
 ## Projetos no Python
+
+### [**Jogo da Adivinhação em Python**](https://github.com/Eduardoppereira/while_break_python)
+ - **Este repositório contém um exemplo prático de como dominar o uso do While-Loop e do Break em Python. O objetivo é explorar o controle de fluxo preciso em cenários complexos, utilizando essas estruturas de controle de maneira inteligente.**
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/while_break_python)
+
+## Desenvolvimento do Jogo
+
+```python
+import random
+
+numero_secreto = random.randint(1, 100)
+tentativas = 0
+limite_tentativas = 10
+
+print("Bem-vindo ao Jogo da Adivinhação!")
+print(f"Você tem {limite_tentativas} tentativas para adivinhar o número secreto.")
+
+while tentativas < limite_tentativas:
+    palpite = int(input("Digite seu palpite: "))
+
+    if palpite == numero_secreto:
+        print(f"Parabéns! Você acertou o número secreto {numero_secreto} em {tentativas + 1} tentativas.")
+        break
+    elif palpite < numero_secreto:
+        print("Tente um número maior.")
+    else:
+        print("Tente um número menor.")
+
+    tentativas += 1
+else:
+    print(f"Fim das tentativas. O número secreto era {numero_secreto}.")
+```
 
 ### [**Explorando a Eficiência e Versatilidade das Bibliotecas em Python para Análise de Dados**](https://github.com/Eduardoppereira/PYTHON_DATA_SCIENCE/tree/main)
  - **Este repositório contém um estudo abrangente sobre as bibliotecas Python mais utilizadas em análise de dados: NumPy, Pandas, Matplotlib.pyplot e Seaborn. O objetivo principal é destacar a eficiência e versatilidade dessas bibliotecas e como elas podem ser integradas para realizar análises de dados complexas.**
