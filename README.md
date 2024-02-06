@@ -45,6 +45,19 @@ Olá! Eu sou Eduardo Pedrosa, um entusiasta de dados apaixonado por análise de 
 
 ## Projetos no Figma
 
+### [**Relatório de Investimentos - Bradesco**](https://github.com/Eduardoppereira/investimento_bradesco/tree/main)
+ - **Esse projeto visa oferecer um visão detalhada do desempenho dos seus investimentos, apresentando análises e métricas essenciais**
+ - [Acesse o Protótipo](https://github.com/Eduardoppereira/investimento_bradesco/tree/main)
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/Eduardoppereira/investimento_bradesco/tree/main)
+
+#### Capturas de Tela
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/investimento_bradesco/blob/main/Main1.png" width=60%>
+</p>
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/investimento_bradesco/blob/main/Main2.png" width=60%>
+</p>
+
 ### [**Dashboard de Vendas no Figma 🚀**](https://github.com/Eduardoppereira/texas_in_burgues)
  - **Este relatório é uma ferramenta completa e intuitiva, permitindo uma análise abrangente do desempenho da hamburgueria. Ao integrar KPIs, análises comparativas e avaliações do cliente, este dashboard oferece uma visão holística para orientar as decisões estratégicas e impulsionar o sucesso do negócio.**
  - [Acesse o Protótipo](https://github.com/Eduardoppereira/texas_in_burgues)
